@@ -7,3 +7,6 @@ This tutorial focuses mainly on Git
 This repository is built step by step in the tutorial.
 
 It now includes steps for Github.
+
+
+creating a branch in local
